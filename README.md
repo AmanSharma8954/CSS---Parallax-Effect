@@ -1,1 +1,2 @@
-# https://amansharma8954.github.io/CSS---Parallax-Effect/
+# Parallax Effect
+https://amansharma8954.github.io/CSS---Parallax-Effect/
